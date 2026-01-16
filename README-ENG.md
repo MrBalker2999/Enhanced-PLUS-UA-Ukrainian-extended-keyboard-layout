@@ -1,67 +1,74 @@
-# Ukrainian (extended) layout for Windows OS.
-This extended layout includes Russian characters with their standard location in the Russian layout, and also fixes the shortcoming of the standard extended Ukrainian layout, due to which the capital "г" is not written with *CapsLock* pressed.
-Designed for people who have switched or are switching to the Ukrainian language, but have a long-standing past, semi-conservative people who simply cannot move away from using Russian or Internet trolls.
+# Ukrainian (extended) layout for Windows
+This extended layout includes russian characters from their standard location in the russian layout, and also fixes the shortcoming of the standard extended Ukrainian layout, due to which the capital "ґ" is not written with *CapsLock* pressed.
+Designed for people who have switched or are switching to the Ukrainian language, but have a russified past, semi-conservative people who simply cannot move away from the use of russian or Internet trolls.
 
 ## HOW TO USE
-When pressing the right *Alt* and the key of certain letters, a Russian letter will be written.
-If you also press *Shift* at the same time --- a capital letter is printed. Toggling *CapsLock* also works.
+When pressing the right *Alt* and the key of certain letters, the russian letter will be written.
+If you also press *Shift* &mdash; a capital letter will be printed. Switching *CapsLock* also works.
 
-## HOW TO USE IN DETAIL
-[Button] -- [Result with right *Alt* pressed]
-и -- ы
-ъ -- ъ
-ё -- е
-' -- ё
-г - г (reminder)
+| Button | Result with the right *Alt* pressed |
+| --- | --- |
+| і | ы |
+| ї | ъ |
+| є | э |
+| ' | ё |
+| г | ґ (reminder) |
 
-## GETTING STARTED
-Tested on Windows 11. Instructions will also be for it. On older systems for Windows 10, testing has not been conducted and work is not guaranteed.
+___
+
+# GETTING STARTED
+Tested on Windows 11. Instructions will also be for it. On systems older than Windows 10, testing has not been conducted and work is not guaranteed.
 
 ## COMPATIBILITY CHECK
-__Check even if you have Windows 11.__ Go to the standard (system) Windows settings -> System -> About the system. In the "Device specifications" section, expand to "System type".
-64-bit operating system, processor based on __ARM__ architecture --- __WON'T WORK!!!__
+__Check even if you have Windows 11.__ Go to the standard (system) settings of Windows -> System -> About the system. In the "Device specifications" section, look at "System type".
 
-[System Type] -- [Installation File Name]
-_64-bit operating system, processor based on x64 architecture_ -- __UA-ru_amd64.msi__
-_32-bit operating system, processor based on x64 architecture_ -- __UA-ru_i386.msi__
-_32-bit operating system, processor based on x32 architecture_ -- __UA-ru_i386.msi__
+| System type | File name for installation |
+| --- | --- |
+| _64-bit operating system, processor based on x64 architecture_ | UA-ru_amd64.msi |
+| _32-bit operating system, processor based on x64 architecture_ | UA-ru_i386.msi |
+| _32-bit operating system, processor based on x32 architecture_ | UA-ru_i386.msi |
+| _64-bit operating system, processor based on **ARM** architecture_ | __WON'T WORK!!!__ |
 
 ## INSTALLATION
-1) Run the required file (described a little above);
-2) Wait for the window to appear with a message about successful installation (it may take some time);
+1) Run the required file (described a little higher);
+2) Wait for the window with a message about successful installation to appear (it may take some time);
 3) Click "Close";
-4) __MUST__ restart the computer.
-5) Go to the standard (system) settings Windows -> Time and language -> Language and region -> three dots next to Ukrainian -> Language options -> three dots "Ukrainian (extended)" -> Delete).
+4) __NECESSARILY__ restart the computer.
+5) Go to the standard (system) settings Windows -> Time and language -> Language and region -> three dots next to Ukrainian -> Language options -> three dots next to "Ukrainian (enhanced)" -> Delete).
+
+---
 
 ## QUESTIONS
-* *How to delete?*
-1) Run the file used for installation (if you don't remember which one, read the "Compatibility check" section above);
-2) Select "Delete keyboard layout";
-3) Click the "Done" button;
-4) Go to the standard (system) settings Windows -> Time and language -> Language and region -> three dots next to Ukrainian -> Language options -> three dots "Ukr. (extended) with Russian letters and full г" -> Delete);
-5) Restart the computer.
+* *How to remove this layout?*
+    1) Run the file that was used for installation (if you don't remember which one, read the "Compatibility Check" section above);
+    2) Select "Remove the keyboard layout";
+    3) Click the "Finish" button;
+    4) Go to the standard (system) Windows settings -> Time and language -> Language and region -> ellipsis next to Ukrainian -> Language options -> ellipsis next to "Укр. (розширена) з рос. літерами та повноцінною ґ" -> Remove);
+    5) Go to the standard (system) Windows settings -> Time and language -> Language and region -> ellipsis next to Ukrainian -> Programs -> Installed programs -> ellipsis next to "Укр. (розширена) з рос. літерами та повноцінною ґ" -> Remove);
+6) Restart the computer.
 
 * *Why do I need this keyboard?*
-If your preferred language is Ukrainian, you are switching to one less extra language.
-For example, you don't really need to switch between THREE (English, Ukrainian, Russian).
+If your preferred language is Ukrainian, you will switch to one less extra language.
+For example, you will not have to switch between THREE (English, Ukrainian, russian).
 
-* *The installation instructions say to remove "Ukrainian (extended)". Is it safe?*
+* *The installation instructions say to remove "Ukrainian (extended)". Is this safe?*
 Yes, absolutely. You are not removing the language, but only the keyboard (layout).
 
 * *After updating Windows, I have the standard layout again. What should I do?*
-This is how Windows works and, unfortunately, I cannot fix it at the moment. There are 2 solutions here and both are police.
-1) Restart your computer. This is still a real option.
-2) Go to the standard (system) Windows settings -> Time and language -> Language and region -> ellipsis next to Ukrainian -> Language options -> Add a keyboard -> "Ukrainian" (you will probably need to add the same one, not the extended one) -> ellipsis next to "Ukrainian" (yes, this is the one that was installed as much as possible) -> Delete.
+This is how Windows works and, unfortunately, I cannot fix. There are 2 solutions here and both are workarounds.
+    - Restart your computer. This is still a real option.
+    - Go to the standard (system) Windows settings -> Time and language -> Language and region -> ellipsis next to Ukrainian -> Language options -> Add a keyboard -> "Ukrainian" (you probably need to add this one, not the extended one) -> ellipsis next to "Ukrainian" (yes, this is the one that was just installed) -> Delete.
 
 * *The name has "amd", but I have an Intel processor. Will this work on my computer?*
+Yes, it will work. Let's take a closer look at the name. amd64 is the 64-bit x86 architecture created by AMD, fully compatible with Intel 64. That is, it will work on Ryzen, Intel Core, and even Xeon. In Windows, it is usually called: x64, x86-64, amd64. It's the same thing.
 
-Yes, it will work. Look at the name in more detail. amd64 is: 64-bit x86 architecture created by AMD, fully compatible with Intel 64. That is, it will work on Ryzen, Intel Core, and even Xeon. In Windows, this is the traditional connection as: x64, x86-64, amd64. It's the same thing.
+---
 
 ### Author
 Vladyslav L.
 
 Contact:
-Twitter (X): [Vladyslav](https://x.com/MrBalker_2999) --- write with any questions or complaints.
+Twitter (X): [Vladyslav](https://x.com/MrBalker_2999) &mdash; write with any questions or complaints.
 
 ### Version History
 * 1
