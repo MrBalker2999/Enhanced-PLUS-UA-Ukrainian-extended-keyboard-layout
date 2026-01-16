@@ -76,3 +76,4 @@ Twitter (X): [Vladyslav](https://x.com/MrBalker_2999) &mdash; write with any que
 
 ### Licenses
 The project is licensed under the MIT license. Read more in *LICENSE.md*.
+Created via Microsoft Keyboard Layout Creator 1.4
