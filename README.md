@@ -81,3 +81,4 @@ Twitter (X): [Vladyslav](https://x.com/MrBalker_2999) &mdash; пишіть з б
 
 ### Ліцензії
 Проект ліцензовано MIT-ліцензією. Читайте детальніше в *LICENSE.md*.
+Створено за допомогою Microsoft Keyboard Layout Creator 1.4
