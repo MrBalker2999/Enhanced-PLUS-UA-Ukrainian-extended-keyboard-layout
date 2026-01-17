@@ -1,4 +1,4 @@
-# Ukrainian (extended) layout for Windows
+# Ukrainian (enhanced+) layout for Windows
 This extended layout includes russian characters from their standard location in the russian layout, and also fixes the shortcoming of the standard extended Ukrainian layout, due to which the capital "ґ" is not written with *Caps Lock* pressed.  
 Designed for people who have switched or are switching to the Ukrainian language, but have a russified past, semi-conservative people who simply cannot move away from the use of russian or Internet trolls.
 
