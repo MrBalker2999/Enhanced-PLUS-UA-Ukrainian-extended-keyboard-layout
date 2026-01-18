@@ -29,11 +29,11 @@ If Ukrainian is not in the list of languages:
 3) Check the desired boxes and click the "Install" button.
 
 ## INSTALLATION
-1) Download the archive and unpack it;
+1) [Download the archive](https://github.com/MrBalker2999/Enhanced-PLUS-UA-keyboard-layout/releases) and unpack it;
 1) Run the desired file (described a little higher);
 2) Wait for the window with a message about successful installation to appear (it may take some time);
 3) Click "Close";
-4) __MANDATORY__ restart the computer.
+4) ___MANDATORY___ restart the computer.
 5) _RECOMMENDED_ to go to the standard (system) Windows settings -> Time and language -> Language and region -> three dots next to Ukrainian -> Language options -> three dots next to "Ukrainian (advanced)" -> Delete).
 
 ---
