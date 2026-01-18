@@ -33,7 +33,7 @@ If Ukrainian is not in the list of languages:
 1) Run the desired file (described a little higher);
 2) Wait for the window with a message about successful installation to appear (it may take some time);
 3) Click "Close";
-4) ___MANDATORY___ restart the computer.
+4) ___NECESSARILY___ restart the computer.
 5) _RECOMMENDED_ to go to the standard (system) Windows settings -> Time and language -> Language and region -> three dots next to Ukrainian -> Language options -> three dots next to "Ukrainian (advanced)" -> Delete).
 
 ---
