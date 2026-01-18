@@ -1,5 +1,5 @@
 # Ukrainian (enhanced+) layout for Windows
-This enhanced layout includes Russian characters from their standard location in the Russian layout, fixes the shortcoming of the standard enhanced Ukrainian layout (the capital "г" is not printed with *Caps Lock* pressed), and also adds some characters that are available only in the English layout.
+This enhanced layout includes russian characters from their standard location in the russian layout, fixes the shortcoming of the standard enhanced Ukrainian layout (the capital "г" is not printed with *Caps Lock* pressed), and also adds some characters that are available only in the English layout.
 
 ### Who is this for?
 For people who have switched or are switching to the Ukrainian language, but have a russified past, Internet trolls and anyone who will find this useful.
@@ -43,13 +43,13 @@ If Ukrainian is not in the list of languages:
     1) Run the file that was used for installation (if you don't remember which one, read the "Compatibility Check" section above);
     2) Select "Remove the keyboard layout";
     3) Click the "Finish" button;
-    4) Go to the standard (system) Windows settings -> Time and language -> Language and region -> ellipsis next to Ukrainian -> Language options -> ellipsis next to "Ukr. (enhanced) with Russian letters and full г" -> Remove);
-    5) Go to the standard (system) Windows settings -> Time and language -> Language and region -> ellipsis next to Ukrainian -> Programs -> Installed programs -> ellipsis next to Укр. (розширена) з рос. літерами та повноцінною ґ" or "Українська (розширена+) розкладка" (depends on version) -> Remove);
+    4) Go to the standard (system) Windows settings -> Time and language -> Language and region -> ellipsis next to Ukrainian -> Language options -> ellipsis next to "Укр. (розширена) з рос. літерами та повноцінною ґ" or "Українська (розширена+) розкладка" (depends on version) -> Remove);
+    5) Go to the standard (system) Windows settings -> Time and language -> Language and region -> ellipsis next to Ukrainian -> Programs -> Installed programs -> ellipsis next to "Укр. (розширена) з рос. літерами та повноцінною ґ" or "Українська (розширена+) розкладка" (depends on version) -> Remove);
     6) Restart the computer.
 
 * *Why do __I__ need this keyboard?*  
 If your preferred language is Ukrainian, you will switch to one language less, or maybe two.  
-_Trilingual version (English, Ukrainian, Russian) used for example._
+_Trilingual version (English, Ukrainian, russian) used for example._
 
 * *A similar keyboard is already available online, why choose this one?*  
 The keyboards I found did not work for me (OS Windows 11) and probably will not work for you.  
