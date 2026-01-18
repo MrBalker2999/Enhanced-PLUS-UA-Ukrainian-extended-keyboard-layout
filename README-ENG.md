@@ -1,5 +1,5 @@
 # Ukrainian (enhanced+) layout for Windows
-Enhanced-PLUS-UA is a custom Ukrainian keyboard layout for Windows, extended with additional symbols and optional Russian letters for occasional use, without affecting the primary Ukrainian layout.  
+Enhanced PLUS UA is a custom Ukrainian keyboard layout for Windows, extended with additional symbols and optional Russian letters for occasional use, without affecting the primary Ukrainian layout.  
 
 It includes:
 - Russian characters in their standard positions, as in a regular Russian layout;
