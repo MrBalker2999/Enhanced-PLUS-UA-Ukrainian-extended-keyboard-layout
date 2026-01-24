@@ -6,9 +6,6 @@ It includes:
 - fixes a long-standing issue in the standard Ukrainian (Enhanced) layout (capital "Ґ" now types correctly with *Caps Lock*);
 - adds some symbols that are normally only available on the English layout.
 
-### Who is this for?
-For people who have switched or are switching to the Ukrainian language, but have a russified past, Internet trolls and anyone who will find this useful.
-
 ---
 
 # GETTING STARTED
@@ -19,9 +16,9 @@ Go to the standard (system) Windows settings -> System -> About the system. In t
 
 | System type | File name for installation |
 | --- | --- |
-| _64-bit operating system, x64-based processor_ | UA-ru_amd64.msi |
-| _32-bit operating system, x64-based processor_ | UA-ru_i386.msi |
-| _32-bit operating system, x32-based processor_ | UA-ru_i386.msi |
+| _64-bit operating system, x64-based processor_ | [...]_amd64.msi |
+| _32-bit operating system, x64-based processor_ | [...]_i386.msi |
+| _32-bit operating system, x32-based processor_ | [...]_i386.msi |
 | _64-bit operating system, **ARM**-based processor_ | __WON'T WORK!!!__ |
 
 ### LANGUAGE CHECK
@@ -39,7 +36,7 @@ If Ukrainian is not in the list of languages:
 2) Wait for the window with a message about successful installation to appear (it may take some time);
 3) Click "Close";
 4) ___NECESSARILY___ restart the computer.
-5) _RECOMMENDED_ to go to the standard (system) Windows settings -> Time and language -> Language and region -> three dots next to Ukrainian -> Language options -> three dots next to "Ukrainian (advanced)" -> Delete).
+5) _RECOMMENDED_ to go to the standard (system) Windows settings -> Time and language -> Language and region -> three dots next to Ukrainian -> Language options -> three dots next to "Ukrainian (Enhanced)" -> Delete).
 
 ---
 
@@ -57,7 +54,7 @@ If your preferred language is Ukrainian, you will switch to one language less, o
 _Trilingual version (English, Ukrainian, russian) used for example._
 
 * *A similar keyboard is already available online, why choose this one?*  
-The keyboards I found did not work for me (OS Windows 11) and probably will not work for you.  
+The keyboards I found were too flooded or did not work for me (OS Windows 11) and probably will not work for you.  
 This one will work like a charm.
 
 * *The installation instructions say to remove "Ukrainian (enhanced)". Is it safe?*  
